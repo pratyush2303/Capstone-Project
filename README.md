@@ -27,7 +27,7 @@ Emotion analysis is the process of identifying and understanding human emotions.
 
 ## Requirements and versions
 
-- **`cmake - 3.20.5`                          - `requests - 2.22.0`
+| - **`cmake - 3.20.5`                          - `requests - 2.22.0` |
 - **`dlib - 19.22.0`                          - `requests-oauthlib - 1.3.0`         
 - **`emoji - 1.2.0`                           - `requests-unixsocket - 0.2.0`
 - **`fastai - 1.0.61`                         - `responses - 0.13.3`
@@ -144,6 +144,4 @@ GitHub will alert you that you can merge the two branches because there is no co
 ![create pr](https://user-images.githubusercontent.com/66662965/115048337-161c5b80-9ef7-11eb-9d6d-959224497c0f.png)
 
 #### <ins> Step 6: CONGRATULATIONS :boom: :clap: :relaxed: </ins>
-You have made your contributions. Kudos to you!! 🎉✌🏻🙌🏻
-
-<hr> </hr>
+You have made your contributions. Kudos to 
