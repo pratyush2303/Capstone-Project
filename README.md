@@ -13,9 +13,9 @@ Emotion analysis is the process of identifying and understanding human emotions.
 | File      | Description |
 | :-----------: | :-----------: |
 | **Data** | This contains the Dataset used to train our model. This directory contains further 3 folders namely speech, text, video. 
-Speech folder contains a python pickle file named `Emotion_Voice_Detection_Model.pkl` which is a voice detection model which acts on a speech.
-text folder contain files with words, misspelled words and contractions for data cleaning, stemming, lemmatization.
-video folder contains files with video paths and some emotion tags for pre-processing. |
+|          | speech folder contains a python pickle file named `Emotion_Voice_Detection_Model.pkl` which is a voice detection model which acts on a speech.
+|          | text folder contain files with words, misspelled words and contractions for data cleaning, stemming, lemmatization.
+|          | video folder contains files with video paths and some emotion tags for pre-processing. |
 | **keys.py**   | This file contains keys for authorization purposes for having a convenient connection access between twitter API and our bot. |
 | **remove.py** | This file contains a remove method to remove the specified file path downloaded while checking emotion analysis for an audio or video tweet as it directly interacts with the Operating System. |
 | **requirements.txt** | This is a text file containing all libraries , packages with their respective versions. |
@@ -27,25 +27,25 @@ video folder contains files with video paths and some emotion tags for pre-proce
 
 ## Requirements and versions
 
-- **`cmake - 3.20.5`                          - **`requests - 2.22.0`
-- **`dlib - 19.22.0`                          - **`requests-oauthlib - 1.3.0`         
-- **`emoji - 1.2.0`                           - **`requests-unixsocket - 0.2.0`
-- **`fastai - 1.0.61`                         - **`responses - 0.13.3`
-- **`fastcore - 1.3.20`                       - **`scikit-learn`
-- **`fastprogress - 1.0.0`                    - **`scipy`
-- **`Flask - 1.1.2`                           - **`simplejson - 3.16.0`
-- **`imutils - 0.5.4`                         - **`SpeechRecognition - 3.8.1`
-- **`Keras - 2.4.3`                           - **`tensorflow`
-- **`Keras-Preprocessing - 1.1.2`             - **`tensorflow-estimator`
-- **`librosa - 0.8.1`                         - **`tensorflow-gpu`
-- **`matplotlib - 3.4.2`                      - **`tokenizers - 0.10.3`
-- **`matplotlib-inline - 0.1.2`               - **`torch`
-- **`moviepy`                                 - **`tweepy`                         
-- **`numpy`                                   - **`tqdm - 4.61.1`
-- **`opencv-python`                           - **`transformers - 4.8.1`
-- **`openpyxl - 3.0.7`                        - **`tweepy - 3.10.0`
-- **`pandas - 1.2.5`                          - **`tweet-preprocessor - 0.6.0`
-- **`pyforest - 1.1.0`                        - **`urllib3 - 1.26.6`
+- **`cmake - 3.20.5`                          - `requests - 2.22.0`
+- **`dlib - 19.22.0`                          - `requests-oauthlib - 1.3.0`         
+- **`emoji - 1.2.0`                           - `requests-unixsocket - 0.2.0`
+- **`fastai - 1.0.61`                         - `responses - 0.13.3`
+- **`fastcore - 1.3.20`                       - `scikit-learn`
+- **`fastprogress - 1.0.0`                    - `scipy`
+- **`Flask - 1.1.2`                           - `simplejson - 3.16.0`
+- **`imutils - 0.5.4`                         - `SpeechRecognition - 3.8.1`
+- **`Keras - 2.4.3`                           - `tensorflow`
+- **`Keras-Preprocessing - 1.1.2`             - `tensorflow-estimator`
+- **`librosa - 0.8.1`                         - `tensorflow-gpu`
+- **`matplotlib - 3.4.2`                      - `tokenizers - 0.10.3`
+- **`matplotlib-inline - 0.1.2`               - `torch`
+- **`moviepy`                                 - `tweepy`                         
+- **`numpy`                                   - `tqdm - 4.61.1`
+- **`opencv-python`                           - `transformers - 4.8.1`
+- **`openpyxl - 3.0.7`                        - `tweepy - 3.10.0`
+- **`pandas - 1.2.5`                          - `tweet-preprocessor - 0.6.0`
+- **`pyforest - 1.1.0`                        - `urllib3 - 1.26.6`
 - **`websocket-client - 1.1.0`
 
 ## Okay you know everything now, Let's start 
