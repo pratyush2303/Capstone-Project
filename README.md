@@ -27,25 +27,25 @@ Emotion analysis is the process of identifying and understanding human emotions.
 
 ## Requirements and versions
 
-| - **`cmake - 3.20.5`                          - `requests - 2.22.0` |
-- **`dlib - 19.22.0`                          - `requests-oauthlib - 1.3.0`         
-- **`emoji - 1.2.0`                           - `requests-unixsocket - 0.2.0`
-- **`fastai - 1.0.61`                         - `responses - 0.13.3`
-- **`fastcore - 1.3.20`                       - `scikit-learn`
-- **`fastprogress - 1.0.0`                    - `scipy`
-- **`Flask - 1.1.2`                           - `simplejson - 3.16.0`
-- **`imutils - 0.5.4`                         - `SpeechRecognition - 3.8.1`
-- **`Keras - 2.4.3`                           - `tensorflow`
-- **`Keras-Preprocessing - 1.1.2`             - `tensorflow-estimator`
-- **`librosa - 0.8.1`                         - `tensorflow-gpu`
-- **`matplotlib - 3.4.2`                      - `tokenizers - 0.10.3`
-- **`matplotlib-inline - 0.1.2`               - `torch`
-- **`moviepy`                                 - `tweepy`                         
-- **`numpy`                                   - `tqdm - 4.61.1`
-- **`opencv-python`                           - `transformers - 4.8.1`
-- **`openpyxl - 3.0.7`                        - `tweepy - 3.10.0`
-- **`pandas - 1.2.5`                          - `tweet-preprocessor - 0.6.0`
-- **`pyforest - 1.1.0`                        - `urllib3 - 1.26.6`
+- **`cmake - 3.20.5`                 |              - `requests - 2.22.0` 
+- **`dlib - 19.22.0`                 |              - `requests-oauthlib - 1.3.0`         
+- **`emoji - 1.2.0`                  |              - `requests-unixsocket - 0.2.0`
+- **`fastai - 1.0.61`                |              - `responses - 0.13.3`
+- **`fastcore - 1.3.20`              |              - `scikit-learn`
+- **`fastprogress - 1.0.0`           |              - `scipy`
+- **`Flask - 1.1.2`                  |              - `simplejson - 3.16.0`
+- **`imutils - 0.5.4`                |              - `SpeechRecognition - 3.8.1`
+- **`Keras - 2.4.3`                  |              - `tensorflow`
+- **`Keras-Preprocessing - 1.1.2`    |              - `tensorflow-estimator`
+- **`librosa - 0.8.1`                |              - `tensorflow-gpu`
+- **`matplotlib - 3.4.2`             |              - `tokenizers - 0.10.3`
+- **`matplotlib-inline - 0.1.2`      |              - `torch`
+- **`moviepy`                        |              - `tweepy`                         
+- **`numpy`                          |              - `tqdm - 4.61.1`
+- **`opencv-python`                  |              - `transformers - 4.8.1`
+- **`openpyxl - 3.0.7`               |              - `tweepy - 3.10.0`
+- **`pandas - 1.2.5`                 |              - `tweet-preprocessor - 0.6.0`
+- **`pyforest - 1.1.0`               |              - `urllib3 - 1.26.6`
 - **`websocket-client - 1.1.0`
 
 ## Okay you know everything now, Let's start 
@@ -144,4 +144,7 @@ GitHub will alert you that you can merge the two branches because there is no co
 ![create pr](https://user-images.githubusercontent.com/66662965/115048337-161c5b80-9ef7-11eb-9d6d-959224497c0f.png)
 
 #### <ins> Step 6: CONGRATULATIONS :boom: :clap: :relaxed: </ins>
-You have made your contributions. Kudos to 
+You have made your contributions. Kudos to you!! 🎉✌🏻🙌🏻
+
+<hr> </hr>
+
