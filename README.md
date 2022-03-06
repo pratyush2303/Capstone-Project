@@ -23,7 +23,6 @@ This software solve the sudoku puzzle using convolutions neural network.
 Network was able to solve the puzzles with 95% accuracy.
 Following is a snippet showing network solving the sudoku.
 
-<img src=result/result.png width="230">
 
 ---
 ### References
