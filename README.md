@@ -17,12 +17,10 @@ This software solve the sudoku puzzle using convolutions neural network.
 | :-----------: | :-----------: |
 | **sudoku.ipynb** | notebook for running and testing the project |
 | **model.py**   | neural network implementation |
-Project proposal review link by Udacity - (https://review.udacity.com/#!/reviews/2565262)
-
 ---
 ### Performance
 
-Network was able to solve the puzzles with 99% accuracy.
+Network was able to solve the puzzles with 95% accuracy.
 Following is a snippet showing network solving the sudoku.
 
 <img src=result/result.png width="230">
