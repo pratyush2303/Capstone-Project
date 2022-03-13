@@ -17,6 +17,7 @@ This software solve the sudoku puzzle using convolutions neural network.
 | :-----------: | :-----------: |
 | **sudoku.ipynb** | notebook for running and testing the project |
 | **model.py**   | neural network implementation |
+| **report.pdf** | Whole implementataion and description of project |
 ---
 ### Performance
 
