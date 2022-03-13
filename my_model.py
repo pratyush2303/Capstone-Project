@@ -17,5 +17,5 @@ def get_my_model():
     my_model.add(Reshape((-1, 9)))
     my_model.add(Activation('softmax'))
     
-    return my_mode
+    return my_model
  
